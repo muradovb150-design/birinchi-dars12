@@ -1,2 +1,11 @@
-<h1>bexruz</h1>
-<h6>bexruz</h6>
+# Birinchi Dars 12
+
+## About
+This project was created as part of a learning assignment.
+
+## Technologies
+- HTML
+- CSS
+
+## Author
+Behruz Muradov
